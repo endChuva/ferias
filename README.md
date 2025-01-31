@@ -22,7 +22,7 @@ A minimalist 404 error page with a horizontal gradient background, designed to m
       background: linear-gradient(to right, #333, #ccc);
   }
   ```
-## Replace Image: Update the src attribute in the img tag:
+- Replace Image: Update the src attribute in the img tag:
   ```html
   <img src="your-image.jpg" class="image">
   ```
